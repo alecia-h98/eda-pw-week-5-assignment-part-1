@@ -7,8 +7,14 @@ console.log('***** Object Practice *****')
   - Give it a boolean 'hasSiblings' property
   - Give it  a numeric 'shoeCount' property
   - Also give it an array 'favThreeFoods'
+
 */
 const me = {
+  firstName: 'Alecia',
+  lastName: 'Hagen',
+  hasSiblings: true,
+  shoeCount: 15,
+  favThreeFoods: ['OofdaTacos', 'Knoephla', 'Tikka Masala']
   // TODO - add properties here
 };
 console.log('A little about me:', me);
